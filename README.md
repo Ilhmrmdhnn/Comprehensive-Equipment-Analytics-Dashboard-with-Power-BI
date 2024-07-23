@@ -1,8 +1,8 @@
 # Comprehensive-Equipment-Analytics-Dashboard-with-Power-BI
 
-![Screenshot 2024-07-23 140343](https://github.com/user-attachments/assets/81d84aa5-b3ba-42bc-8a4f-29d3756a49ea)
 ![Screenshot 2024-07-23 140239](https://github.com/user-attachments/assets/2f5eaf3f-ab89-469b-a5e2-9999eeb33b95)
 ![Screenshot 2024-07-23 140314](https://github.com/user-attachments/assets/b7847d82-9571-40fe-a1eb-0ba63c628bf3)
+![Screenshot 2024-07-23 140343](https://github.com/user-attachments/assets/81d84aa5-b3ba-42bc-8a4f-29d3756a49ea)
 
 ## Overview
 This repository contains a Power BI project focused on analyzing and visualizing equipment performance and operational data. The project leverages various data sources to provide actionable insights through interactive dashboards and detailed reports. Key aspects include tracking equipment usage, maintenance costs, project progress, environmental conditions, and more.
